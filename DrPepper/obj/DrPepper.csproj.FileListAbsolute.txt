@@ -1,0 +1,9 @@
+Z:\Users\Emory\source\repos\DrPepper\DrPepper\bin\Debug\DrPepper.exe
+Z:\Users\Emory\source\repos\DrPepper\DrPepper\bin\Debug\DrPepper.pdb
+Z:\Users\Emory\source\repos\DrPepper\DrPepper\obj\Debug\DrPepper.csproj.AssemblyReference.cache
+Z:\Users\Emory\source\repos\DrPepper\DrPepper\obj\Debug\DrPepper.Form1.resources
+Z:\Users\Emory\source\repos\DrPepper\DrPepper\obj\Debug\DrPepper.Properties.Resources.resources
+Z:\Users\Emory\source\repos\DrPepper\DrPepper\obj\Debug\DrPepper.csproj.GenerateResource.cache
+Z:\Users\Emory\source\repos\DrPepper\DrPepper\obj\Debug\DrPepper.csproj.CoreCompileInputs.cache
+Z:\Users\Emory\source\repos\DrPepper\DrPepper\obj\Debug\DrPepper.exe
+Z:\Users\Emory\source\repos\DrPepper\DrPepper\obj\Debug\DrPepper.pdb
